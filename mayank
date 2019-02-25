@@ -1,1 +1,4 @@
-hello openshift 
+<?php
+echo  "opesmhift";
+echo "/n/n";
+?>
