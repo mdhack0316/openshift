@@ -13,7 +13,7 @@ echo /n/n;
 	</head>
 
 <body>
-	<h1>PHP 1662Test</h1>
+	<h1>PHP 18686576Test</h1>
 		<p><b>An Example of PHP in Action</b></p>
 		<?php echo "The Current Date and Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
