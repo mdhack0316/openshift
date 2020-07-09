@@ -8,7 +8,7 @@ echo /n/n;
 
 <html>
 	<head>
-	<title>PHP mayank Test</title>
+	<title>PHP mayanewchnages i am doingnk Test</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 	</head>
 
